@@ -1,7 +1,7 @@
 /*  ENSF 480 Fall 2022
     Lab 5 - Exercise A and B
     Filename: DemoStrategyPattern.java
-    Modified by: Aarushi Roy Choudhury (30113987)
+    Modified by: Aarushi Roy Choudhury 
  */
 
 //I added a MyVector<Integer> v3 to test SelectionSorter
