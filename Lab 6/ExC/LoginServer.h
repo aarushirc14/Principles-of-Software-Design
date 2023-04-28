@@ -11,12 +11,7 @@ struct User {
         string username;
         string password;
 };
-/*  ENSF 480 Fall 2022
-    Lab 6 - Exercise C
-    Filename: LoginServer.h
-    Author: Aarushi Roy Choudhury
-    Date: 2022-11-15
- */
+
 
 class LoginServer{
     private: 
