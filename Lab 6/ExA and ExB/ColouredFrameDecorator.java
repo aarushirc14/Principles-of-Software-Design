@@ -1,7 +1,7 @@
 /*  ENSF 480 Fall 2022
     Lab 6 - Exercise A
     Filename: ColouredFrameDecorator.java
-    Author: Aarushi Roy Choudhury (30113987)
+    Author: Aarushi Roy Choudhury
     Date: 2022-11-15
  */
 
