@@ -1,7 +1,7 @@
 /*  ENSF 480 Fall 2022
     Lab 5 - Exercise A and B
     Filename: BubbleSorter.java
-    Author: Aarushi Roy Choudhury (30113987)
+    Author: Aarushi Roy Choudhury
  */
 
 import java.util.ArrayList;
